@@ -3,3 +3,6 @@ smk muhammadiyah2 pekanbaru berada di sukajadi pekanbaru
  pengelolahan databae web sistem and mobile
  membuat forum komunikasi 
  membuat sistem chating
+ 
+ 
+ rilis nya website variasi mobil pekanbaru pada tanggal 20 denganbahasa pmrograman html,php,css,javascript, opp, framework bostrap5
